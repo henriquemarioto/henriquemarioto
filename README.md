@@ -14,6 +14,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://instagram.fbat1-1.fna.fbcdn.net/v/t51.2885-19/197872319_485175672593069_858602243185993574_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fbat1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=2JTNPEsvPBAAX90vbYu&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-n0AUA_jt5xyUiqyFMaX1enRpeMwZZ_CqtCXfHSUB--A&oe=628BC3E2&_nc_sid=7bff83">
 </div>
 
