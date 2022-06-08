@@ -1,6 +1,6 @@
 
 <div align="center">
-	 <img src="https://i.postimg.cc/T2j6PbRy/gifgithub.gif" width="80%" />
+	 <img src="https://i.postimg.cc/T2j6PbRy/gifgithub.gif" width="60%" />
 </div>
 
 <div align="center">
