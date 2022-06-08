@@ -3,27 +3,41 @@
 	 <img src="https://i.postimg.cc/T2j6PbRy/gifgithub.gif" width="60%" />
 </div>
 
+#  Hello, world! 🤟
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat&logo=github)](https://github.com/henriquemarioto)
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=henriquemarioto&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=blue"/>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/henriquemarioto/henriquemarioto?logo=markdown&label=LAST+UPDATE&color=blue&style=flat">
+
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/hula_loop_octodex03.gif" />
+
+- 🌎  _Hello people, my name is Paulo and i'm_ **FullStack Developer.**
+
+- 🧬 Soft Skills: **I am self-taught, proactive, communicative and curious.**
+
+- ⚡ Hard Skills: **HTML5, CSS, Javascript, ReactJS, Typescript, Styled Components, NodeJS, Express, TypeORM, PotgreSQL, Docker.**
+
+- 📚 Studying: **Python, Django.**
+
+- 🖥️  Tools:  **Figma, Git, GitHub, Notion, VSCode.**
+ 
+- 📧  **You can find me here:**  ⤵️
+
+<div> 
+  <a href="https://www.linkedin.com/in/paulo-marioto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
+
+
+## ⚙️Analytics
 <div align="center">
   <a href="https://github.com/henriquemarioto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquemarioto&show_icons=true&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemarioto&layout=compact&langs_count=7&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://instagram.fbat1-1.fna.fbcdn.net/v/t51.2885-19/197872319_485175672593069_858602243185993574_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fbat1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=2JTNPEsvPBAAX90vbYu&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-n0AUA_jt5xyUiqyFMaX1enRpeMwZZ_CqtCXfHSUB--A&oe=628BC3E2&_nc_sid=7bff83">
+<div align="center">
+	<img src="https://img.ibxk.com.br/2018/04/11/forma-senoidal-11161828980272.gif" alt="gif" />
 </div>
 
- ##
  
-<div> 
-  <a href="https://www.linkedin.com/in/paulo-marioto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+
