@@ -10,7 +10,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/hula_loop_octodex03.gif" />
 
-- 🌎  _Hello people, my name is Paulo and i'm_ **FullStack Developer.**
+- 🌎  My name is Paulo and i'm_ **FullStack Developer.**
 
 - 🧬 Soft Skills: **I am self-taught, proactive, communicative and curious.**
 
@@ -34,10 +34,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquemarioto&show_icons=true&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemarioto&layout=compact&langs_count=7&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc"/>
 </div>
-
-<div align="center">
-	<img src="https://img.ibxk.com.br/2018/04/11/forma-senoidal-11161828980272.gif" alt="gif" />
-</div>
-
- 
-
+	
+<img src="https://i.pinimg.com/originals/af/78/fd/af78fde25f4c9bf530c0c513d60cd470.gif" alt="gif" width="65%" />
