@@ -1,6 +1,6 @@
 
 <div align="center">
-	<img src="https://i.postimg.cc/PJpRGBrv/Compartilhamento-de-tela-2022-06-08-18h26min16s-1.gif" />
+	 <img src="https://i.postimg.cc/T2j6PbRy/gifgithub.gif" width="95%" />
 </div>
 
 <div align="center">
