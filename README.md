@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/02VctXyY/Compartilhamento-de-tela-2022-06-08-18h01min41s.gif" width="50%"/>
+  <img src="https://i.postimg.cc/02VctXyY/Compartilhamento-de-tela-2022-06-08-18h01min41s.gif" width="95%"/>
 </div>
 
 <div align="center">
