@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/02VctXyY/Compartilhamento-de-tela-2022-06-08-18h01min41s.gif" height="180em" />
+<img src="https://i.postimg.cc/02VctXyY/Compartilhamento-de-tela-2022-06-08-18h01min41s.gif" width="100%" />
 
 <div align="center">
   <a href="https://github.com/henriquemarioto">
