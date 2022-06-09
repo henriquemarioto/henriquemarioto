@@ -8,7 +8,7 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=henriquemarioto&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=blue"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/henriquemarioto/henriquemarioto?logo=markdown&label=LAST+UPDATE&color=blue&style=flat">
 
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/hula_loop_octodex03.gif" />
+<img align="right" alt="GIF" height="160px" src="https://i.postimg.cc/Zny6zB04/avatar.png" />
 
 - 🌎  My name is Paulo and i'm_ **FullStack Developer.**
 
