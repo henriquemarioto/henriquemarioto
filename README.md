@@ -41,6 +41,8 @@
   <img src="https://img.shields.io/badge/-typeorm-FE0902?logo=typescript&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" />
 </div>
 
 <div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10%;">
