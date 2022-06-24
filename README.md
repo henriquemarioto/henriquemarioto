@@ -3,22 +3,25 @@
   <img src="https://i.postimg.cc/T2j6PbRy/gifgithub.gif" width="60%" />
 </div>
 
-#  Hello, world! 🤟
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat&logo=github)](https://github.com/henriquemarioto)
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=henriquemarioto&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=blue" />
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/henriquemarioto/henriquemarioto?logo=markdown&label=LAST+UPDATE&color=blue&style=flat" />
+<div align="center">
+  #  Hello, world! 🤟
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat&logo=github)](https://github.com/henriquemarioto)
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=henriquemarioto&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=blue" />
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/henriquemarioto/henriquemarioto?logo=markdown&label=LAST+UPDATE&color=blue&style=flat" />
 
-<img align="right" alt="GIF" height="160px" src="https://i.postimg.cc/Zny6zB04/avatar.png" />
+  <img align="right" alt="GIF" height="160px" src="https://i.postimg.cc/Zny6zB04/avatar.png" />
 
-- 🌎  My name is Paulo and i'm_ **FullStack Developer.**
+  - 🌎  My name is Paulo and i'm_ **FullStack Developer.**
 
-- 🧬 Soft Skills: **I am self-taught, proactive, communicative and curious.**
+  - 🧬 Soft Skills: **I am self-taught, proactive, communicative and curious.**
 
-- 📚 Studying: **Python, Django.**
+  - 📚 Studying: **Python, Django.**
 
-- 🖥️  Tools:  **Figma, Git, GitHub, Notion, VSCode.**
+  - 🖥️  Tools:  **Figma, Git, GitHub, Notion, VSCode.**
  
-- 📧  **You can find me here:**  ⤵️
+  - 📧  **You can find me here:**  ⤵️
+</div>
+
 
 <div> 
   <a href="https://www.linkedin.com/in/paulo-marioto/" target="_blank">
@@ -45,7 +48,7 @@
   <img src="https://img.shields.io/badge/-heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" />
 </div>
 
-<div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10%;">
+<div align="center">
   <h2> ⚙️Analytics </h2>
 
   <a href="https://github.com/henriquemarioto">
