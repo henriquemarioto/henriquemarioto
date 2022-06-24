@@ -3,7 +3,7 @@
   <img src="https://i.postimg.cc/T2j6PbRy/gifgithub.gif" width="60%" />
 </div>
 
-<div align="center">
+
   #  Hello, world! 🤟
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat&logo=github)](https://github.com/henriquemarioto)
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=henriquemarioto&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=blue" />
@@ -20,7 +20,7 @@
   - 🖥️  Tools:  **Figma, Git, GitHub, Notion, VSCode.**
  
   - 📧  **You can find me here:**  ⤵️
-</div>
+
 
 
 <div> 
