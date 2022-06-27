@@ -11,7 +11,7 @@
 
   <img align="right" alt="GIF" height="160px" src="https://i.postimg.cc/Zny6zB04/avatar.png" />
 
-  - 🌎  My name is Paulo and i'm_ **FullStack Developer.**
+  - 🌎  My name is Paulo and i'm **FullStack Developer.**
 
   - 🧬 Soft Skills: **I am self-taught, proactive, communicative and curious.**
 
