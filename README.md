@@ -39,20 +39,16 @@
   <img src="https://img.shields.io/badge/-styled components-DB7093?logo=styled-components&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-nodejs-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-express-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-jwt-000000?logo=JSON Web Tokens&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-typeorm-FE0902?logo=typescript&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-jwt-000000?logo=JSON Web Tokens&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-vscode-007ACC?logo=Visual Studio Code&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-notion-000000?logo=notion&logoColor=white&style=for-the-badge" />
 </div>
 
 <div align="center">
@@ -61,6 +57,16 @@
   <img src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-django-092E20?logo=django&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-react native-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+</div>
+
+<div align="center">
+  <h2> 🛠️ Tools </h2>
+	
+  <img src="https://img.shields.io/badge/-vscode-007ACC?logo=Visual Studio Code&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-notion-000000?logo=notion&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" />
 </div>
 
 <div align="center">
