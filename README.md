@@ -14,8 +14,6 @@
   - 🌎  My name is Paulo and i'm **FullStack Developer.**
 
   - 🧬 Soft Skills: **I am self-taught, proactive, communicative and curious.**
-
-  - 🖥️  Tools:  **Figma, Git, GitHub, Notion, VSCode.**
  
   - 📧  **You can find me here:**  ⤵️
 
