@@ -51,14 +51,6 @@
 </div>
 
 <div align="center">
-  <h2> 📚 Studying </h2>
-	
-  <img src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-django-092E20?logo=django&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-react native-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-</div>
-
-<div align="center">
   <h2> 🛠️ Tools </h2>
 	
   <img src="https://img.shields.io/badge/-vscode-007ACC?logo=Visual Studio Code&logoColor=white&style=for-the-badge" />
