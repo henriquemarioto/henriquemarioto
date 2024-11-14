@@ -2,8 +2,13 @@
   <img src="https://i.postimg.cc/T2j6PbRy/gifgithub.gif" width="60%" />
 </div>
 
-# Hello, world! 🤟 [![PRs
-Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat&logo=github)](https://github.com/henriquemarioto)
+# Hello, world! 🤟 [![PRsWelcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat&logo=github)](https://github.com/henriquemarioto)
+<img
+  align="right"
+  alt="GIF"
+  height="160px"
+  src="https://i.postimg.cc/Zny6zB04/avatar.png"
+/>
 <img
   alt="Visitors"
   src="https://komarev.com/ghpvc/?username=henriquemarioto&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=blue"
@@ -13,16 +18,11 @@ Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat&logo=githu
   src="https://img.shields.io/github/last-commit/henriquemarioto/henriquemarioto?logo=markdown&label=LAST+UPDATE&color=blue&style=flat"
 />
 
-<img
-  align="right"
-  alt="GIF"
-  height="160px"
-  src="https://i.postimg.cc/Zny6zB04/avatar.png"
-/>
-
-- 🌎 My name is Paulo and i'm **FullStack Developer.** - 🧬 Soft Skills: **I am
-self-taught, proactive, communicative and curious.** - 📧 **You can find me
-here:** ⤵️
+<ul>
+  <li>🌎 My name is Paulo and i'm **FullStack Developer.</li>
+  <li>🧬 I am self-taught, proactive, communicative and curious.</li>
+  <li>📧 You can find me here: ⤵️</li>
+</ul>
 
 <div>
   <a href="https://www.linkedin.com/in/paulo-marioto/" target="_blank">
@@ -40,9 +40,7 @@ here:** ⤵️
 </div>
 
 <div align="center">
-  <h2>🖥️ Hard skills</h2>
-
-  <h3>Code</h3>
+  <h2>👨‍💻 Code</h2>
   <img
     src="https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge"
   />
@@ -66,6 +64,9 @@ here:** ⤵️
   />
   <img
     src="https://img.shields.io/badge/-reactjs-61DAFB?logo=react&logoColor=white&style=for-the-badge"
+  />
+  <img
+    src="https://img.shields.io/badge/vite-a84fff?style=for-the-badge&logo=vite&logoColor=ffd52d"
   />
   <img
     src="https://img.shields.io/badge/-next.js-000000?logo=next.js&logoColor=white&style=for-the-badge"
@@ -92,7 +93,7 @@ here:** ⤵️
     src="https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"
   />
 
-  <h3>Database</h3>
+  <h2>🗃️ Database</h2>
   <img
     src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
   />
@@ -109,13 +110,13 @@ here:** ⤵️
     src="https://img.shields.io/badge/-typeorm-FE0902?logo=typeorm&logoColor=white&style=for-the-badge"
   />
   <img
-    src="https://img.shields.io/badge/-sequelize-FE0902?logo=sequelize&logoColor=white&style=for-the-badge"
+    src="https://img.shields.io/badge/-sequelize-02AFEF?logo=sequelize&logoColor=white&style=for-the-badge"
   />
   <img
-    src="https://img.shields.io/badge/-prisma-FE0902?logo=prisma&logoColor=white&style=for-the-badge"
+    src="https://img.shields.io/badge/-prisma-090A15?logo=prisma&logoColor=white&style=for-the-badge"
   />
 
-  <h3>Deploy</h3>
+  <h2>⬆️ Deploy</h2>
   <img
     src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"
   />
@@ -125,11 +126,9 @@ here:** ⤵️
   <img
     src="https://img.shields.io/badge/-heroku-430098?logo=heroku&logoColor=white&style=for-the-badge"
   />
-</div>
 
-<div align="center">
   <h2>🛠️ Tools</h2>
-
+  
   <img
     src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge"
   />
@@ -152,10 +151,10 @@ here:** ⤵️
     src="https://img.shields.io/badge/-trello-0052CC?logo=trello&logoColor=white&style=for-the-badge"
   />
   <img
-    src="https://img.shields.io/badge/-azure-0052CC?logo=azure&logoColor=white&style=for-the-badge"
+    src="https://img.shields.io/badge/-azure-004088?logo=azure&logoColor=white&style=for-the-badge"
   />
   <img
-    src="https://img.shields.io/badge/-jira-0052CC?logo=jira&logoColor=white&style=for-the-badge"
+    src="https://img.shields.io/badge/-jira-1868DB?logo=jira&logoColor=white&style=for-the-badge"
   />
   <img
     src="https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0"
