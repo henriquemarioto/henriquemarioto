@@ -31,7 +31,7 @@
       target="_blank"
     />
   </a>
-  <a href="https://portfolio-marioto-nextjs.vercel.app" target="_blank">
+  <a href="https://portfolio-marioto.vercel.app/" target="_blank">
     <img
       src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"
       target="_blank"
