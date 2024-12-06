@@ -83,9 +83,6 @@
   <img
     src="https://img.shields.io/badge/-jwt-000000?logo=JSON Web Tokens&logoColor=white&style=for-the-badge"
   />
-  <img
-    src="https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"
-  />
 
   <h2>🗃️ Database</h2>
   <img
@@ -131,6 +128,9 @@
   />
   <img
     src="https://img.shields.io/badge/-yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge"
+  />
+  <img
+    src="https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"
   />
   <img
     src="https://img.shields.io/badge/-vscode-007ACC?logo=Visual Studio Code&logoColor=white&style=for-the-badge"
