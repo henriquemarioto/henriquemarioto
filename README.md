@@ -1,14 +1,4 @@
-<div align="center">
-  <img src="https://i.postimg.cc/T2j6PbRy/gifgithub.gif" width="60%" />
-</div>
-
-# Hello, world! 🤟 [![PRsWelcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat&logo=github)](https://github.com/henriquemarioto)
-<img
-  align="right"
-  alt="GIF"
-  height="160px"
-  src="https://i.postimg.cc/Zny6zB04/avatar.png"
-/>
+# Hello, world! 🤟
 <img
   alt="Visitors"
   src="https://komarev.com/ghpvc/?username=henriquemarioto&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=blue"
@@ -39,7 +29,7 @@
   </a>
 </div>
 
-<div align="center">
+<div>
   <h2>👨‍💻 Code</h2>
   <img
     src="https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge"
@@ -164,7 +154,7 @@
   />
 </div>
 
-<div align="center">
+<div>
   <h2>⚙️Analytics</h2>
 
   <a href="https://github.com/henriquemarioto">
