@@ -10,7 +10,7 @@
 
 <ul>
   <li>🌎 My name is Paulo and I am a FullStack Developer.</li>
-  <li>🧬 I am self-taught, proactive, communicative and curious.</li>
+  <li>🧬 I am proactive, communicative and curious.</li>
   <li>📧 You can find me here: ⤵️</li>
 </ul>
 
