@@ -9,12 +9,7 @@
   src="https://img.shields.io/github/last-commit/henriquemarioto/henriquemarioto?logo=markdown&label=LAST+UPDATE&color=blue&style=flat"
 />
 
-I'm **Paulo Henrique Marioto Junior**, a Backend Software Engineer passionate about building scalable and maintainable systems using **Node.js**, **TypeScript** and modern web technologies.
-
-- 💡 I focus on performance, clean code and business impact  
-- 🧠 Curious and proactive by nature, I love learning and sharing knowledge  
-- 🚀 Experience building systems used by 40k+ users and generating R$6M/month  
-- 📧 Reach me here ⤵️
+I'm **Paulo Henrique Marioto Junior**, a Software Engineer (Backend focused).
 
 <div>
   <a href="https://www.linkedin.com/in/paulo-marioto/" target="_blank">
