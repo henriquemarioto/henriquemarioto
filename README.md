@@ -15,9 +15,6 @@ I'm **Paulo Henrique Marioto Junior**, a Software Engineer (Backend focused).
   <a href="https://www.linkedin.com/in/paulo-marioto/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portfolio-marioto.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
 </div>
 
 ## 👨‍💻 Backend
